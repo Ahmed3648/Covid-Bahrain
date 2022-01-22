@@ -1,5 +1,5 @@
 # Covid-Bahrain
-This project is to draw Power Bi chart showing covid new cases and deaths in Bahrain
+This project is to draw Power Bi chart showing covid new cases and deaths in Bahrain (Data until 03-Jan-2022)
 
 Dataset has been obtained from https://ourworldindata.org/covid-deaths
 
